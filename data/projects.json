@@ -1,0 +1,18 @@
+{
+	"projects": [
+		{
+			"title": "Chessboard",
+			"description": "",
+			"repoURL": "https://github.com/reactry/chessboard",
+			"webURL": "https://reactry.github.io/chessboard",
+			"stack": ["tailwindcss", "reactjs"]
+		},
+		{
+			"title": "Newtab",
+			"description": "",
+			"repoURL": "https://github.com/reactry/newtab",
+			"webURL": "https://reactry.github.io/newtab",
+			"stack": ["tailwindcss", "reactjs"]
+		}
+	]
+}
